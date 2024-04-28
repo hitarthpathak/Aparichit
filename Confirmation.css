@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url("Images/Hell.jpg");
+    background-size: cover;
+}
+
+.box {
+    height: fit-content;
+    width: fit-content;
+    background-color: rgba(0, 0, 0, 0.700);
+    margin: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+video {
+    height: auto;
+    width: 95vw;
+}

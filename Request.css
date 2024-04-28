@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url("Images/Hell.jpg");
+    background-size: cover;
+}
+
+.box {
+    height: auto;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.700);
+    color: red;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+h1 {
+    height: auto;
+    width: auto;
+    font-size: 3rem;
+    text-align: center;
+}
+
+p {
+    height: auto;
+    width: auto;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+textarea {
+    height: 10rem;
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    font-family: 'Times New Roman';
+}
+
+button {
+    height: auto;
+    width: auto;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: red;
+    color: black;
+}

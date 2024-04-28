@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("Images/Hell.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+button {
+    height: auto;
+    width: auto;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: red;
+    color: black;
+    margin-top: 2rem;
+}
