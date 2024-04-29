@@ -12,15 +12,13 @@ body {
 }
 
 .box {
-    height: fit-content;
-    width: fit-content;
+    height: 100%;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.700);
-    margin: auto;
-    margin-top: 2rem;
-    padding: 1rem;
+    padding: 1vh;
 }
 
 video {
-    height: auto;
-    width: 95vw;
+    height: 100%;
+    width: 100%;
 }
